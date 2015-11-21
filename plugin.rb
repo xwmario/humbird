@@ -4,9 +4,6 @@
 # authors: Vikhyat Korrapati (code by)
 # url: https://github.com/vikhyat/discourse-hummingbird (source)
 
-register_asset "style.css"
-
-Onebox = Onebox
 
 module Onebox
   module Engine
